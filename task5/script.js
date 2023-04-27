@@ -16,7 +16,6 @@
 const btn = document.querySelector('.j-btn');
 const resultNode = document.querySelector('.j-result');
 
-Cnhjqrf200390
 
 const displayResult = (data) => {
   let cards = '';
